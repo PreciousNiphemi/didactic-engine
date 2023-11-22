@@ -1,0 +1,49 @@
+[
+    {
+        "commentary": {
+            "text": {
+                "text": ""
+            }
+        },
+        "socialDetails": {},
+        "updateMetadata": {
+            "urn": "urn:li:activity:7071936690625368064",
+            "actionsPosition": "HEADER_COMPONENT",
+            "updateActions": {
+                "actions": [
+                    {
+                        "icon": {},
+                        "saveAction": {}
+                    },
+                    {
+                        "url": ""
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "resharedUpdate": {
+            "commentary": {
+                "text": {
+                    "text": ""
+                }
+            }
+        },
+        "updateMetadata": {
+            "urn": "urn:li:activity:7071936690625368064",
+            "actionsPosition": "HEADER_COMPONENT",
+            "updateActions": {
+                "actions": [
+                    {
+                        "icon": {},
+                        "saveAction": {}
+                    },
+                    {
+                        "url": ""
+                    }
+                ]
+            }
+        }
+    }
+]
