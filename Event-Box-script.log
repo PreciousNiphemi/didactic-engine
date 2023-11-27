@@ -1,0 +1,17 @@
+INFO:root:Script started
+INFO:root:Extracted posts for sabrina-rahman-aa3439225 in 9.405157089233398 seconds
+INFO:root:Extracted posts for florian-herschel-a45357109 in 7.8772971630096436 seconds
+INFO:root:Extracted posts for jayanth-kumar-014073200 in 12.3189218044281 seconds
+INFO:root:Extracted posts for karen-leah-andrew-b3601327 in 14.525787830352783 seconds
+INFO:root:Extracted posts for sasha-nicole-647b0566 in 6.71936297416687 seconds
+INFO:root:Extracted posts for shoumodeep-ghosh-57b6b610a in 13.732879877090454 seconds
+INFO:root:Extracted posts for shiwani-sharma-b57929234 in 11.578649044036865 seconds
+INFO:root:Extracted posts for k-m-tanvir-8a967928b in 9.836891889572144 seconds
+INFO:root:Extracted posts for muskan-perveen-19b095221 in 12.349229097366333 seconds
+INFO:root:Extracted posts for roseane-rocha-90a75540 in 7.771399259567261 seconds
+INFO:root:Extracted posts for riya-kumari-a7a487203 in 12.338027954101562 seconds
+INFO:root:Extracted posts for preet-kaur-552980223 in 7.7706921100616455 seconds
+INFO:root:Skipped https://www.linkedin.com/search/results/people/headless?currentCompany=%5B76228771%5D&origin=COMPANY_PAGE_CANNED_SEARCH due to invalid format
+INFO:root:Extracted posts for mohammed-waseem-63ab01185 in 12.597935914993286 seconds
+INFO:root:Extracted posts for prity-kumari-6a211123b in 12.56111192703247 seconds
+INFO:root:Script ended, total time: 151.3883571624756 seconds

@@ -1,0 +1,12 @@
+INFO:root:Script started
+INFO:root:Extracted posts for srajeth in 11.524832010269165 seconds
+INFO:root:Extracted posts for igowthamr in 14.680132865905762 seconds
+INFO:root:Extracted posts for harshahegde8 in 11.53270411491394 seconds
+INFO:root:Extracted posts for ankit-kakra-61570b16b in 11.390446186065674 seconds
+INFO:root:Extracted posts for sumer-singh-09642521 in 8.789575815200806 seconds
+INFO:root:Extracted posts for anveshverma in 5.079791784286499 seconds
+INFO:root:Extracted posts for ila-rani-b4108941 in 10.785170078277588 seconds
+INFO:root:Extracted posts for mahipal-manchala-53964096 in 9.812035083770752 seconds
+INFO:root:Extracted posts for jamir-kadu-31a696121 in 6.800181865692139 seconds
+INFO:root:Skipped https://www.linkedin.com/search/results/people/headless?currentCompany=%5B391047%5D&origin=COMPANY_PAGE_CANNED_SEARCH due to invalid format
+INFO:root:Script ended, total time: 90.3983039855957 seconds

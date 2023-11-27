@@ -1,0 +1,11 @@
+INFO:root:Script started
+INFO:root:Extracted posts for peter-parnassa-80861430 in 8.418707847595215 seconds
+INFO:root:Extracted posts for troy-benjamin-b4372369 in 13.413671970367432 seconds
+INFO:root:Extracted posts for escalantejose in 9.739573001861572 seconds
+INFO:root:Extracted posts for marguerite-neugebauer-10626753 in 9.673121929168701 seconds
+INFO:root:Extracted posts for lyudmilakroshchuk in 9.404589891433716 seconds
+INFO:root:Extracted posts for henriquezpd in 13.649965047836304 seconds
+INFO:root:Extracted posts for ivan-batlle-19632172 in 5.943426847457886 seconds
+INFO:root:Skipped https://www.linkedin.com/search/results/people/headless?currentCompany=%5B2282756%5D&origin=COMPANY_PAGE_CANNED_SEARCH due to invalid format
+INFO:root:Extracted posts for ceciloops in 6.8054420948028564 seconds
+INFO:root:Script ended, total time: 77.05190968513489 seconds
